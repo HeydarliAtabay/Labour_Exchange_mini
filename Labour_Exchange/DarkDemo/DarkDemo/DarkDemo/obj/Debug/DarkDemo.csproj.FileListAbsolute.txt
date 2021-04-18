@@ -1,0 +1,20 @@
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\DarkDemo\DarkDemo\bin\Debug\DarkDemo.exe.config
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\DarkDemo\DarkDemo\bin\Debug\DarkDemo.exe
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\DarkDemo\DarkDemo\bin\Debug\DarkDemo.pdb
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\DarkDemo\DarkDemo\obj\Debug\DarkDemo.csprojResolveAssemblyReference.cache
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\DarkDemo\DarkDemo\obj\Debug\DarkDemo.Form1.resources
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\DarkDemo\DarkDemo\obj\Debug\DarkDemo.Properties.Resources.resources
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\DarkDemo\DarkDemo\obj\Debug\DarkDemo.csproj.GenerateResource.Cache
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\DarkDemo\DarkDemo\obj\Debug\DarkDemo.exe
+c:\users\salaar husceyn\documents\visual studio 2012\Projects\DarkDemo\DarkDemo\obj\Debug\DarkDemo.pdb
+C:\Users\heyda\Desktop\Others\Diplomniye_raboti\Sabina\Project\DarkDemo\DarkDemo\DarkDemo\bin\Debug\DarkDemo.exe.config
+C:\Users\heyda\Desktop\Others\Diplomniye_raboti\Sabina\Project\DarkDemo\DarkDemo\DarkDemo\bin\Debug\DarkDemo.exe
+C:\Users\heyda\Desktop\Others\Diplomniye_raboti\Sabina\Project\DarkDemo\DarkDemo\DarkDemo\bin\Debug\DarkDemo.pdb
+C:\Users\heyda\Desktop\Others\Diplomniye_raboti\Sabina\Project\DarkDemo\DarkDemo\DarkDemo\obj\Debug\DarkDemo.Form1.resources
+C:\Users\heyda\Desktop\Others\Diplomniye_raboti\Sabina\Project\DarkDemo\DarkDemo\DarkDemo\obj\Debug\DarkDemo.Properties.Resources.resources
+C:\Users\heyda\Desktop\Others\Diplomniye_raboti\Sabina\Project\DarkDemo\DarkDemo\DarkDemo\obj\Debug\DarkDemo.csproj.GenerateResource.cache
+C:\Users\heyda\Desktop\Others\Diplomniye_raboti\Sabina\Project\DarkDemo\DarkDemo\DarkDemo\obj\Debug\DarkDemo.exe
+C:\Users\heyda\Desktop\Others\Diplomniye_raboti\Sabina\Project\DarkDemo\DarkDemo\DarkDemo\obj\Debug\DarkDemo.pdb
+C:\Users\heyda\Desktop\Others\Diplomniye_raboti\Sabina\Project\DarkDemo\DarkDemo\DarkDemo\obj\Debug\DarkDemo.First_Dashboard.resources
+C:\Users\heyda\Desktop\Others\Diplomniye_raboti\Sabina\Project\DarkDemo\DarkDemo\DarkDemo\obj\Debug\DarkDemo.Second_control.resources
+C:\Users\heyda\Desktop\Others\Diplomniye_raboti\Sabina\Project\DarkDemo\DarkDemo\DarkDemo\obj\Debug\DarkDemo.csprojAssemblyReference.cache
